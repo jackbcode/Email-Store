@@ -1,0 +1,7 @@
+c:\users\jack\source\repos\EmailStore\EmailStore\bin\Debug\EmailStore.exe.config
+c:\users\jack\source\repos\EmailStore\EmailStore\bin\Debug\EmailStore.exe
+c:\users\jack\source\repos\EmailStore\EmailStore\bin\Debug\EmailStore.pdb
+c:\users\jack\source\repos\EmailStore\EmailStore\obj\Debug\EmailStore.csprojAssemblyReference.cache
+c:\users\jack\source\repos\EmailStore\EmailStore\obj\Debug\EmailStore.csproj.CoreCompileInputs.cache
+c:\users\jack\source\repos\EmailStore\EmailStore\obj\Debug\EmailStore.exe
+c:\users\jack\source\repos\EmailStore\EmailStore\obj\Debug\EmailStore.pdb

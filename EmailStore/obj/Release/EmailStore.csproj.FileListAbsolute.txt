@@ -1,0 +1,6 @@
+C:\Users\Jack\source\repos\EmailStore\EmailStore\bin\Release\EmailStore.exe.config
+C:\Users\Jack\source\repos\EmailStore\EmailStore\bin\Release\EmailStore.exe
+C:\Users\Jack\source\repos\EmailStore\EmailStore\bin\Release\EmailStore.pdb
+C:\Users\Jack\source\repos\EmailStore\EmailStore\obj\Release\EmailStore.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\EmailStore\EmailStore\obj\Release\EmailStore.exe
+C:\Users\Jack\source\repos\EmailStore\EmailStore\obj\Release\EmailStore.pdb
